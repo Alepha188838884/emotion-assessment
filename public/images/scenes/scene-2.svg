@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9dc5ff"/>
+      <stop offset="100%" stop-color="#7da0d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <circle cx="260" cy="250" r="120" fill="#e7f1ff"/>
+  <path d="M480 150 C520 220 560 220 600 150 L630 180 C595 230 595 280 630 340 C560 320 520 320 450 340 C485 280 485 230 450 180 Z" fill="#fff" stroke="#5a7bab" stroke-width="8"/>
+  <line x1="520" y1="220" x2="575" y2="285" stroke="#5a7bab" stroke-width="8"/>
+  <text x="70" y="430" font-size="54" fill="#28466f" font-family="'Microsoft YaHei', sans-serif">玩具坏了</text>
+</svg>

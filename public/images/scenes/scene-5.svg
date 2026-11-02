@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#97ddb0"/>
+      <stop offset="100%" stop-color="#6bc89f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <circle cx="200" cy="190" r="80" fill="#d7f9e4"/>
+  <circle cx="320" cy="160" r="70" fill="#d7f9e4"/>
+  <circle cx="440" cy="190" r="80" fill="#d7f9e4"/>
+  <path d="M0 340 C140 300 260 380 400 340 C520 300 680 360 800 330 L800 500 L0 500 Z" fill="#4da875"/>
+  <text x="70" y="430" font-size="54" fill="#1f6a43" font-family="'Microsoft YaHei', sans-serif">公园散步</text>
+</svg>

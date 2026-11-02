@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffd36e"/>
+      <stop offset="100%" stop-color="#ff9f7e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg1)"/>
+  <circle cx="260" cy="250" r="120" fill="#fff3d8"/>
+  <rect x="430" y="180" width="160" height="140" rx="18" fill="#ffffff" stroke="#f39c63" stroke-width="8"/>
+  <line x1="510" y1="140" x2="510" y2="360" stroke="#f39c63" stroke-width="10"/>
+  <line x1="430" y1="250" x2="590" y2="250" stroke="#f39c63" stroke-width="10"/>
+  <text x="70" y="430" font-size="54" fill="#8a4a1f" font-family="'Microsoft YaHei', sans-serif">收到礼物</text>
+</svg>

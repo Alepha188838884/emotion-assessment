@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7d8cff"/>
+      <stop offset="100%" stop-color="#4f5db9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg4)"/>
+  <circle cx="620" cy="120" r="50" fill="#f8f7ff"/>
+  <polygon points="470,120 520,220 480,220 540,340 500,340 560,430 430,260 470,260" fill="#f9ec75"/>
+  <circle cx="220" cy="250" r="120" fill="#b8c6ff"/>
+  <text x="70" y="430" font-size="54" fill="#eef1ff" font-family="'Microsoft YaHei', sans-serif">夜里异响</text>
+</svg>

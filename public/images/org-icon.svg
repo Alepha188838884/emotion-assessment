@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="190" viewBox="0 0 280 190">
+  <rect width="280" height="190" rx="18" fill="#f4f4f4"/>
+
+  <g transform="translate(0,-4)">
+    <circle cx="140" cy="55" r="28" fill="#8ec63f"/>
+
+    <path d="M140 36 C130 45 132 60 140 67 C148 60 150 45 140 36Z" fill="#ffffff"/>
+    <path d="M128 49 C120 50 116 55 114 61 C123 62 130 58 132 52" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M152 49 C160 50 164 55 166 61 C157 62 150 58 148 52" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M140 65 L140 80" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+
+    <path d="M122 84 C132 77 148 77 158 84 C149 90 131 90 122 84Z" fill="#7a3f8f"/>
+
+    <g transform="translate(78,100)">
+      <path d="M0 0 C18 12 40 12 58 0 C76 12 98 12 116 0 C130 9 142 10 154 8" stroke="#5aa02c" stroke-width="4" fill="none" stroke-linecap="round"/>
+      <path d="M15 8 L15 26" stroke="#5aa02c" stroke-width="4"/>
+      <path d="M40 8 L40 28" stroke="#5aa02c" stroke-width="4"/>
+      <path d="M66 8 L66 27" stroke="#5aa02c" stroke-width="4"/>
+      <path d="M91 8 L91 26" stroke="#5aa02c" stroke-width="4"/>
+      <path d="M117 8 L117 25" stroke="#5aa02c" stroke-width="4"/>
+      <path d="M142 8 L142 22" stroke="#5aa02c" stroke-width="4"/>
+
+      <path d="M12 26 C18 33 26 33 32 26" stroke="#000" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M34 28 C41 34 49 34 56 28" stroke="#000" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M58 27 C65 34 73 34 80 27" stroke="#000" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M82 26 C89 33 97 33 104 26" stroke="#000" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M107 25 C113 31 120 31 126 25" stroke="#f39c12" stroke-width="3" fill="none" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <text x="140" y="174" text-anchor="middle" font-size="18" fill="#5f5f5f" font-family="'Microsoft YaHei','PingFang SC',sans-serif">上海青聪泉儿童智能训练中心</text>
+</svg>
